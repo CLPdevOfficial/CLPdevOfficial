@@ -27,9 +27,9 @@ Languages and tools I'm currently working with:
 
 Here are a few projects I've been working on. Some is still in progress 
 
-* 📌 **[Subjecthelp](link-to-repo-of-project-1)**
+* 📌 **[Subjecthelp](https://github.com/CLPdevOfficial/subjectshelp)**
     * *Description: A basic command line python. repo for calculating math and physics with a set of formulas*
-* 🚧 **[Stacked Gen: In Progress]**
+* 🚧 **Stacked Gen: In Progress**
     * *Description: basic python image generation/modify with google Gemini .*
 
 ---
