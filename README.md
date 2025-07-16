@@ -39,7 +39,7 @@ Here are a few projects I've been working on. Some is still in progress
 Check out my GitHub activity!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CLPdevOfficial&show_icons=true&theme=nord)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CLPdevOfficial&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CLPdevOfficial)](https://git.io/streak-stats)
 
 ---
 
