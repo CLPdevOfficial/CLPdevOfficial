@@ -27,8 +27,8 @@ Languages and tools I'm currently working with:
 
 Here are a few projects I've been working on. Some is still in progress 
 
-* 📌 **[Subjectshelp](https://github.com/CLPdevOfficial/subjectshelp)**
-    * *Description: A basic command line python. repo for calculating math and physics with a set of formulas*
+* 📌 **[ImgCapture](https://github.com/CLPdevOfficial/imgcapture)**
+    * *Description: A basic flask project, for cpturing front cam photo and save to a folder*
 * 🚧 **Stacked Gen: In Progress**
     * *Description: basic python image generation/modify with google Gemini .*
 
