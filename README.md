@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm an aspiring Software Engineer for creating impactful solutions code. Based in Cambodia/Snoul , I'm dedicated contributing some exciting projects.
+I'm an aspiring Software Engineer for creating impactful code. Based in Cambodia/Snoul , I'm dedicated contributing some exciting projects.
 
 ---
 
@@ -25,12 +25,8 @@ Languages and tools I'm currently working with:
 
 ## My Projects
 
-Here are a few projects I've been working on. Some is still in progress 
-
-* 📌 **[ImgCapture](https://github.com/CLPdevOfficial/imgcapture)**
+* **[fbvideodl](https://github.com/CLPdevOfficial/fbvideodl)**
     * *Description: A basic flask project, for cpturing front cam photo and save to a folder*
-* 🚧 **Stacked Gen: In Progress**
-    * *Description: basic python image generation/modify with google Gemini .*
 
 ---
 
