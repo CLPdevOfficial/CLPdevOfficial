@@ -26,7 +26,7 @@ Languages and tools I'm currently working with:
 ## My Projects
 
 * **[fbvideodl](https://github.com/CLPdevOfficial/fbvideodl)**
-    * *Description: A basic flask project, for cpturing front cam photo and save to a folder*
+    * *Description: A versatile tool for downloading videos and images from Facebook, available with both a user-friendly graphical interface (GUI) and a command-line interface (CLI).*
 
 ---
 
